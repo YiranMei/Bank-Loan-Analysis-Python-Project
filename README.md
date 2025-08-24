@@ -38,14 +38,7 @@ This analysis covers several key areas, presenting findings through various visu
 
 To set up and run this project locally, follow these steps:
 
-1.  **Clone the repository:**
-
-    ```bash
-    git clone [https://github.com/YourGitHubUsername/bank-loan-analysis.git](https://github.com/YourGitHubUsername/bank-loan-analysis.git)
-    cd bank-loan-analysis
-    ```
-
-2.  **Install the required Python packages:**
+1.  **Install the required Python packages:**
 
     ```bash
     pip install pandas matplotlib seaborn plotly tabulate openpyxl
@@ -53,7 +46,7 @@ To set up and run this project locally, follow these steps:
 
     *(Note: `openpyxl` is required by Pandas to read .xlsx files.)*
 
-3.  **Obtain the dataset:**
+2.  **Obtain the dataset:**
     Ensure you have the `financial_loan.xlsx` file in your project directory. This project assumes the data is present for the scripts to run correctly.
 
 ## Usage
