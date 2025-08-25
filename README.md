@@ -34,7 +34,7 @@ This analysis covers several key areas, presenting findings through various visu
 
 * Tabulate (for formatted table output)
 
-## Getting Started
+## Usage
 
 To set up and run this project locally, follow these steps:
 
